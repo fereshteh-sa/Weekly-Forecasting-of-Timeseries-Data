@@ -1,2 +1,4 @@
 # Using Deep Learning for Weekly Crime Forecasting in Chicago: Evidence from 20 Years of Data
 
+Predicting urban crime is crucial to ensure the safety of the community by allocating law enforcement resources more efficiently. This study utilizes 20 years of crime data from the city of Chicago to run and evaluate various Recurrent Neural Network (RNN) architectures such as Vanilla RNN, Bidirectional RNN, LSTM, and GRU against the traditional ARIMA statistical model. This was achieved by aggregating 8.5 million records into weekly counts that capture long-term downward trends and strong seasonal fluctuations. Our findings show us that deep learning models, particularly the GRU model outperform traditional methods in capturing non-linear temporal dependencies providing a better insight for short term operational planning in public safety. 
+
